@@ -1,3 +1,3 @@
 # hello-world
-hello world learning github
-i am new to this and learniing github while coding on codecademy
+hello world i am learning github
+i am new to this and learning github while coding on codecademy
